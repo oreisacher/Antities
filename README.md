@@ -20,11 +20,11 @@ The latest build for Windows can be downloaded directly under [Releases](https:/
 
 Alternatively, the source code can be obtained via this repository:
 
-`git clone git@github.com:Toaschty/Antities.git`
+`git clone git@github.com:oreisacher/Antities.git`
 
 or
 
-`git clone https://github.com/Toaschty/Antities.git`
+`git clone https://github.com/oreisacher/Antities.git`
 
 To avoid compatibility issues, it is strongly recommended to use Unity version **2022.3.7f1** or newer.
 Since Unity DOTS is still under active development, **version 1.0** should be used whenever possible. Older or future versions may include significant changes to its functionality.
@@ -39,4 +39,4 @@ Since Unity DOTS is still under active development, **version 1.0** should be us
 ![Antities_Collage-min](https://github.com/Toaschty/Antities/assets/43918666/e8038914-c927-4015-981b-96aa7890df9d)
 
 ## Credits
-Music by Sergii Pavkin on Pixabay (Thank you ^^)
+Music by Sergii Pavkin on Pixabay
